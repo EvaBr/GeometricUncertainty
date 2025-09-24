@@ -1,0 +1,31 @@
+EPOCH 50
+MC-dropout vs Entropy: -0.49004286313016143
+kNN-dist vs Entropy: -0.49901485289549025
+KDE vs Entropy: 0.6677048692021642
+Mahalanobis vs Entropy: -0.5431552067356474
+
+EPOCH 250
+MC-dropout vs Entropy: -0.7448492590441151
+kNN-dist vs Entropy: -0.49901485289549025
+KDE vs Entropy: 0.6677048692021642
+Mahalanobis vs Entropy: -0.5431552067356474
+
+EPOCH 500
+MC-dropout vs Entropy: -0.7533428770412787
+kNN-dist vs Entropy: -0.49901485289549025
+KDE vs Entropy: 0.6677048692021642
+Mahalanobis vs Entropy: -0.5431552067356474
+
+EPOCH 1000
+MC-dropout vs Entropy: -0.7708421203742758
+kNN-dist vs Entropy: -0.49901485289549025
+KDE vs Entropy: 0.6677048692021642
+Mahalanobis vs Entropy: -0.5431552067356474
+
+DROPOUT 0.1
+MC-dropout vs Entropy: -0.40144189219639653
+kNN-dist vs Entropy: -0.49901485289549025
+KDE vs Entropy: 0.6677048692021642
+Mahalanobis vs Entropy: -0.5431552067356474
+
+DROPOUT 0.3
